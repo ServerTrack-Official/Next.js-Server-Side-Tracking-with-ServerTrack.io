@@ -2,8 +2,8 @@
 
 import { useEffect } from 'react'
 
-const AUTH_KEY = 'ANYCLH7VWNXRGBGVIPD4TBJFSNT82FLVSCFO46Z6'
-const SERVER_DOMAIN = 'sdk.core-relay.org'
+const AUTH_KEY = 'YOUR_AUTH_KEY'
+const SERVER_DOMAIN = 'somesite.example.com'
 
 export default function ServerTrackScript() {
   useEffect(() => {
