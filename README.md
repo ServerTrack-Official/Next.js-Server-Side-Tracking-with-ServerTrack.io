@@ -14,7 +14,7 @@ Update `app/components/ServerTrackScript.js`:
 
 ```javascript
 const AUTH_KEY = 'YOUR_AUTH_KEY'
-const SERVER_DOMAIN = 'sdk.core-relay.org'
+const SERVER_DOMAIN = 'subdomain.example.com'
 ```
 
 ## Usage
